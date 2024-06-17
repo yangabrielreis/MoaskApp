@@ -1,0 +1,7 @@
+{
+  "name": "moask-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
